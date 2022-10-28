@@ -263,5 +263,9 @@ ul li a:hover{
     color: orange;
 }
 
+.image{
+    background-image: url("./20210124_110505.jpg");
+    background-size: cover;
+}
 
 
